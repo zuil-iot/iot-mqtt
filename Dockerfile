@@ -6,7 +6,7 @@ ADD ./ .
 
 RUN npm install
 
-EXPOSE 1833
+EXPOSE 1883
 
 ENTRYPOINT ["node", "app.js"]
 
